@@ -13,7 +13,7 @@ This data science project investigates the relationship between Spotify users' l
 ```bash
 group4-project/
 │
-├── Analysis/                             # Jupyter notebooks for analysis
+├── analysis_notebooks/                             # Jupyter notebooks for analysis
 │   ├── Analysis_VAR                                 # Vector Autoregression analysis
 │   ├── ONS_EDA_Time                                 # Exploratory Data Analysis on ONS data
 │   ├── SentimentAnalysis                            # Sentiment analysis on song titles
